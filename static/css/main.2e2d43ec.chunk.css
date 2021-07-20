@@ -1,0 +1,2 @@
+table,td,th{width:-webkit-max-content;width:max-content;border:2px solid #d3d3d3;border-collapse:collapse;border-spacing:15px}td,th{padding:15px;text-align:left}.todoItem{font-family:"Lucida Sans","Lucida Sans Regular","Lucida Grande","Lucida Sans Unicode",Geneva,Verdana,sans-serif}.todoItem--completed{color:green}.todoItem--completed:after{content:" ✔"}.todoItem--notdone{color:red}.todoItem--notdone:after{content:" ❌"}
+/*# sourceMappingURL=main.2e2d43ec.chunk.css.map */
